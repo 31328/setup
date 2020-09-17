@@ -1,3 +1,5 @@
 #!/bin/bash
 
-sudo yum install updates vim htop htop netcat wireshark
+sudo yum install vim && tmux && htop && --classic code -y
+
+mkdir 
