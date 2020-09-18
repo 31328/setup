@@ -1,12 +1,13 @@
-# setup
+# Setup
 
 ## Automation of the most commond programs, utilities and directories
 
 * Zsh
 * Vim
-* tmux
+* tmux && Wemux
 * Irssi
-* htop
 * Rtorrent
+* htop
 * Visual Studio
-* 
+* Libre Office
+* Virtual Box
